@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Tiwari</h1>
 <h3 align="center">A Computer Engineering undergrad at Ait Pune ,Competitive Programmer from India</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/vivektiwari3159/ target="blank"><img src="https://img.shields.io/twitter/follow/Unnati_twts?logo=twitter&style=for-the-badge" alt="unnati_twts" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/vivektiwari3159/ target="blank"><img src="https://img.shields.io/twitter/follow/Unnati_twts?logo=twitter&style=for-the-badge" alt="CRkodervro" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
