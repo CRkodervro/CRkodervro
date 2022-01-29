@@ -4,19 +4,19 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 🔭 I’m currently working on **Excel Clone**
+<!-- - 🔭 I’m currently working on **Excel Clone** -->
 
 - 🌱 I’m currently learning **everything xD**
 
-- 👯 I’m looking to collaborate on **Open Source Projects, DSA Practicing**
+<!-- - 👯 I’m looking to collaborate on **Open Source Projects, DSA Practicing** -->
 
-- 🤝 I’m looking for help with **Redux, Firebase**
+<!-- - 🤝 I’m looking for help with **Redux, Firebase** -->
 
-- 💬 Ask me about **React.Js, Java, open source, ML, DL, AI, Android**
+<!-- - 💬 Ask me about **React.Js, Java, open source, ML, DL, AI, Android** -->
 
-- 📫 How to reach me **chhabraunnati324@gmail.com**
+- 📫 How to reach me **vivek_tiwari3159@outlook.com**
 
-- ⚡ Fun fact **I like to sing and play instruments**
+<!-- - ⚡ Fun fact **I like to sing and play instruments** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
