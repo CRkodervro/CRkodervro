@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crkodervro&label=Profile%20views&color=0e75b6&style=flat" alt="crkodervro" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
+<img align="right" alt="Coding" width="550" src="CR(1).png">
 
 - 👨‍🎓I am Vivek Tiwari, currently embarking on my engineering journey from Army Institute of Technology, Pune, India.<br/>
 
