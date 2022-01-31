@@ -30,6 +30,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crkodervro&show_icons=true&locale=en&layout=compact" alt="crkodervro" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crkodervro&show_icons=true&locale=en" alt="crkodervro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crkodervro&" alt="crkodervro" /></p>
