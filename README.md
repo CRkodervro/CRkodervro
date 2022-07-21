@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Competetive Programming**.<br/>
 
-- 📫 How to reach me, mail to me @ **vivek_tiwari3159@outlook.com**.<br/>
+- 📫 How to reach me, mail to me @ **vivektiwari20181@gmail.com**.<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
