@@ -10,7 +10,7 @@
 
 - 💻 Currenthly active on **Codeforces**.<br/>
 
-- 4⭐ coder on **Hackerrank**<br/>
+- Rated Expert on **Codeforces**<br/>
 
 - 🌱 I’m currently learning **Competetive Programming**.<br/>
 
